@@ -1,0 +1,194 @@
+PREGUNTA: ¿Cuántos días de vacaciones tengo por año?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: La empresa otorga vacaciones anuales pagadas y las solicitudes deben hacerse mediante el sistema interno con aprobación del supervisor.
+PALABRAS_CLAVE: vacaciones, dias, solicitud, supervisor
+
+PREGUNTA: ¿Cómo puedo trabajar desde mi casa algunos días?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: El trabajo remoto puede solicitarse y requiere aprobación del supervisor dependiendo del puesto y necesidades del equipo.
+PALABRAS_CLAVE: trabajo remoto, solicitud, supervisor
+
+PREGUNTA: ¿Qué debo hacer si estoy enfermo y no puedo trabajar?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: El empleado debe informar a su supervisor y puede utilizar licencia por enfermedad. Puede requerirse certificado médico.
+PALABRAS_CLAVE: enfermedad, licencia, supervisor, certificado
+
+PREGUNTA: ¿La empresa paga cursos o certificaciones?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: La empresa ofrece capacitación profesional y puede financiar cursos o certificaciones con aprobación del supervisor.
+PALABRAS_CLAVE: capacitacion, cursos, certificaciones
+
+PREGUNTA: ¿Cuál es el horario laboral normal?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: La jornada laboral estándar es de aproximadamente 40 horas semanales con posible flexibilidad según el equipo.
+PALABRAS_CLAVE: horario, jornada, horas
+
+PREGUNTA: ¿Qué hago si tengo un conflicto con un compañero?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: Se recomienda resolverlo mediante diálogo o acudir al supervisor o recursos humanos para mediación.
+PALABRAS_CLAVE: conflicto, mediacion, recursos humanos
+
+PREGUNTA: ¿Puedo cambiar de puesto dentro de la empresa?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: Los empleados pueden solicitar transferencias internas siguiendo el proceso de recursos humanos.
+PALABRAS_CLAVE: transferencia interna, puesto
+
+PREGUNTA: ¿Cómo funciona la evaluación de desempeño?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: Se realizan evaluaciones periódicas donde se revisan objetivos, desempeño y desarrollo profesional.
+PALABRAS_CLAVE: evaluacion, desempeño
+
+PREGUNTA: ¿Qué pasa si alguien viola el código de conducta?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: Las violaciones al código de conducta pueden resultar en acciones disciplinarias.
+PALABRAS_CLAVE: conducta, disciplina
+
+PREGUNTA: ¿La empresa tiene políticas contra la discriminación?
+DATASET_CORRECTO: HR
+RESPUESTA_ESPERADA: La empresa mantiene una política de igualdad de oportunidades y permite reportar discriminación.
+PALABRAS_CLAVE: discriminacion, igualdad
+
+PREGUNTA: Olvidé mi contraseña, ¿cómo puedo recuperarla?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: Se puede utilizar la función de recuperación de contraseña o contactar soporte técnico.
+PALABRAS_CLAVE: contraseña, recuperacion
+
+PREGUNTA: ¿Cómo activo la autenticación multifactor?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: La autenticación multifactor puede activarse desde la configuración de seguridad de la cuenta.
+PALABRAS_CLAVE: autenticacion, multifactor
+
+PREGUNTA: Encontré un error en la plataforma, ¿dónde lo reporto?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: Los errores deben reportarse mediante el sistema de tickets de soporte.
+PALABRAS_CLAVE: error, ticket, soporte
+
+PREGUNTA: ¿Cómo puedo abrir un ticket de soporte?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: Los usuarios pueden crear tickets desde el portal de soporte proporcionando detalles del problema.
+PALABRAS_CLAVE: ticket, soporte
+
+PREGUNTA: ¿Cuánto tarda soporte en responder?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: El tiempo de respuesta depende de la prioridad del incidente reportado.
+PALABRAS_CLAVE: soporte, tiempo respuesta
+
+PREGUNTA: ¿El sistema puede bloquear mi cuenta?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: Las cuentas pueden bloquearse temporalmente por múltiples intentos fallidos de inicio de sesión.
+PALABRAS_CLAVE: bloqueo, login
+
+PREGUNTA: ¿La empresa hace backups de los datos?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: La empresa realiza copias de seguridad periódicas para proteger la información del sistema.
+PALABRAS_CLAVE: backup, copias seguridad
+
+PREGUNTA: ¿Puedo exportar mis datos desde la plataforma?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: Los usuarios pueden exportar sus datos utilizando herramientas disponibles en la plataforma.
+PALABRAS_CLAVE: exportar datos
+
+PREGUNTA: ¿Dónde puedo ver la documentación de la API?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: La documentación de la API está disponible para desarrolladores e integraciones externas.
+PALABRAS_CLAVE: api, documentacion
+
+PREGUNTA: ¿Cómo reporto actividad sospechosa en mi cuenta?
+DATASET_CORRECTO: IT
+RESPUESTA_ESPERADA: Los usuarios deben contactar inmediatamente al soporte técnico.
+PALABRAS_CLAVE: actividad sospechosa, seguridad
+
+PREGUNTA: ¿Qué datos personales recopila la empresa?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: La empresa recopila información necesaria para proveer el servicio como datos de contacto y uso de la plataforma.
+PALABRAS_CLAVE: datos personales, privacidad
+
+PREGUNTA: ¿Puedo solicitar que eliminen mis datos?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: Los usuarios pueden solicitar eliminación de datos según las regulaciones aplicables.
+PALABRAS_CLAVE: eliminar datos
+
+PREGUNTA: ¿Quién es dueño de los datos que subo?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: Los clientes mantienen la propiedad de sus datos almacenados en la plataforma.
+PALABRAS_CLAVE: propiedad datos
+
+PREGUNTA: ¿La empresa comparte mis datos con terceros?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: Los datos solo se comparten bajo condiciones especificadas en la política de privacidad.
+PALABRAS_CLAVE: terceros, privacidad
+
+PREGUNTA: ¿Puedo pedir una copia de mis datos?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: Los usuarios pueden solicitar acceso a los datos personales que posee la empresa.
+PALABRAS_CLAVE: acceso datos
+
+PREGUNTA: ¿La empresa usa cookies?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: La plataforma utiliza cookies para mejorar la experiencia del usuario.
+PALABRAS_CLAVE: cookies
+
+PREGUNTA: ¿Qué pasa con mis datos si cancelo mi cuenta?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: Los clientes pueden exportar datos antes del cierre de la cuenta.
+PALABRAS_CLAVE: cancelacion cuenta, datos
+
+PREGUNTA: ¿La empresa puede eliminar contenido que suba?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: La empresa puede eliminar contenido que viole las políticas o condiciones de uso.
+PALABRAS_CLAVE: contenido, politicas
+
+PREGUNTA: ¿El software está protegido por derechos de autor?
+DATASET_CORRECTO: LEGAL
+RESPUESTA_ESPERADA: El software es propiedad de la empresa y se concede una licencia de uso a los clientes.
+PALABRAS_CLAVE: copyright, licencia
+
+PREGUNTA: ¿Dónde puedo ver mis facturas?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: Las facturas pueden consultarse desde el panel de administración de la cuenta.
+PALABRAS_CLAVE: facturas
+
+PREGUNTA: ¿Puedo pagar el servicio mensualmente?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: Los clientes pueden elegir facturación mensual o anual.
+PALABRAS_CLAVE: facturacion, mensual
+
+PREGUNTA: ¿Qué pasa si mi pago falla?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: El sistema intentará procesar nuevamente el pago y notificará al cliente.
+PALABRAS_CLAVE: pago fallido
+
+PREGUNTA: ¿Cuántos intentos de cobro hace el sistema?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: El sistema realiza varios intentos antes de suspender la cuenta.
+PALABRAS_CLAVE: intentos cobro
+
+PREGUNTA: ¿Puedo cambiar mi método de pago?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: El método de pago puede actualizarse desde la configuración de facturación.
+PALABRAS_CLAVE: metodo pago
+
+PREGUNTA: ¿Cómo funciona el cambio de plan?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: El sistema aplica prorrateo cuando se cambia de plan durante el ciclo de facturación.
+PALABRAS_CLAVE: cambio plan, prorrateo
+
+PREGUNTA: ¿La empresa ofrece reembolsos?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: Los reembolsos dependen de las políticas de facturación y cancelación.
+PALABRAS_CLAVE: reembolso
+
+PREGUNTA: ¿En qué moneda se factura el servicio?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: Las facturas se emiten en la moneda definida por la empresa o el contrato.
+PALABRAS_CLAVE: moneda, facturacion
+
+PREGUNTA: ¿La factura incluye impuestos?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: Los impuestos aplicables se agregan según la jurisdicción del cliente.
+PALABRAS_CLAVE: impuestos
+
+PREGUNTA: ¿Cómo evito cargos inesperados?
+DATASET_CORRECTO: FINANZAS
+RESPUESTA_ESPERADA: Los clientes pueden revisar uso, planes y límites de facturación.
+PALABRAS_CLAVE: limite gasto

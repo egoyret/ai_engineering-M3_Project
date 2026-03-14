@@ -1,0 +1,347 @@
+TEMA: politica de privacidad
+DESCRIPCION:
+La empresa se compromete a proteger la privacidad de los datos personales de sus clientes y usuarios.
+
+La información recopilada puede incluir datos de contacto, información de cuenta y datos relacionados con el uso del servicio.
+
+Estos datos se utilizan exclusivamente para proporcionar, mantener y mejorar los servicios ofrecidos por la empresa.
+
+La empresa implementa medidas técnicas y organizativas para proteger los datos contra accesos no autorizados, pérdida o divulgación indebida.
+
+Los usuarios pueden solicitar acceso, corrección o eliminación de sus datos personales de acuerdo con las leyes de protección de datos aplicables.
+
+TEMA: propiedad de los datos
+DESCRIPCION:
+Los clientes conservan la propiedad completa de los datos que almacenan en la plataforma.
+
+La empresa actúa únicamente como proveedor de infraestructura tecnológica para el almacenamiento y procesamiento de dichos datos.
+
+Esto significa que la empresa no reclama derechos de propiedad sobre la información cargada por los clientes.
+
+Los clientes son responsables de garantizar que poseen los derechos legales necesarios para almacenar y procesar los datos.
+
+En caso de cancelación del servicio, los clientes pueden exportar sus datos antes del cierre definitivo de la cuenta.
+
+TEMA: terminos de servicio
+DESCRIPCION:
+El uso de la plataforma está sujeto a los términos de servicio establecidos por la empresa.
+
+Estos términos describen las condiciones bajo las cuales los usuarios pueden acceder y utilizar el sistema.
+
+Los usuarios deben aceptar estos términos al registrarse o comenzar a utilizar el servicio.
+
+La empresa puede actualizar los términos periódicamente para reflejar cambios legales o funcionales.
+
+El uso continuado del servicio implica la aceptación de los términos actualizados.
+
+TEMA: cumplimiento normativo
+DESCRIPCION:
+La empresa se compromete a cumplir con las leyes y regulaciones aplicables en las jurisdicciones donde opera.
+
+Esto incluye normativas relacionadas con protección de datos, comercio electrónico y seguridad de la información.
+
+El cumplimiento normativo es responsabilidad tanto de la empresa como de sus clientes cuando utilizan la plataforma.
+
+La empresa puede implementar controles adicionales para asegurar el cumplimiento de regulaciones específicas.
+
+El incumplimiento de ciertas normativas puede resultar en restricciones en el uso del servicio.
+
+TEMA: retencion de datos
+DESCRIPCION:
+La empresa mantiene políticas claras sobre la retención de datos almacenados en la plataforma.
+
+Los datos se conservan durante el tiempo necesario para proporcionar el servicio o cumplir con obligaciones legales.
+
+Una vez finalizado el período de retención, los datos pueden ser eliminados o anonimizados.
+
+Los clientes pueden solicitar la eliminación de ciertos datos cuando la legislación lo permita.
+
+Las políticas de retención se revisan periódicamente para asegurar su cumplimiento con las regulaciones vigentes.
+
+TEMA: proteccion de datos personales
+DESCRIPCION:
+La empresa adopta medidas para garantizar la protección de los datos personales de los usuarios.
+
+Estas medidas incluyen cifrado de datos, controles de acceso y monitoreo de actividad.
+
+Solo el personal autorizado puede acceder a información sensible cuando sea necesario para prestar el servicio.
+
+Los empleados reciben capacitación sobre buenas prácticas de protección de datos.
+
+La protección de la información personal es una prioridad fundamental para la organización.
+
+TEMA: consentimiento del usuario
+DESCRIPCION:
+Antes de recopilar o procesar datos personales, la empresa solicita el consentimiento explícito del usuario cuando sea requerido por la legislación.
+
+El consentimiento puede otorgarse mediante la aceptación de políticas o mediante acciones dentro de la plataforma.
+
+Los usuarios tienen derecho a retirar su consentimiento en cualquier momento.
+
+La retirada del consentimiento puede limitar el acceso a determinadas funciones del servicio.
+
+La empresa registra el consentimiento para cumplir con requisitos regulatorios.
+
+TEMA: uso aceptable del servicio
+DESCRIPCION:
+Los usuarios deben utilizar la plataforma únicamente para fines legales y autorizados.
+
+No se permite el uso del servicio para actividades fraudulentas, ilegales o que puedan causar daño a terceros.
+
+Los usuarios son responsables del contenido que almacenan o transmiten mediante la plataforma.
+
+La empresa puede suspender cuentas que violen estas normas.
+
+El objetivo de esta política es mantener un entorno seguro para todos los usuarios.
+
+TEMA: propiedad intelectual
+DESCRIPCION:
+El software, diseño y contenido original de la plataforma están protegidos por leyes de propiedad intelectual.
+
+Los usuarios no pueden copiar, modificar o distribuir partes del sistema sin autorización.
+
+La empresa conserva todos los derechos sobre el desarrollo tecnológico de la plataforma.
+
+El uso del servicio no otorga derechos de propiedad sobre el software.
+
+Las violaciones a los derechos de propiedad intelectual pueden derivar en acciones legales.
+
+TEMA: licencias de uso
+DESCRIPCION:
+Al utilizar la plataforma, los usuarios reciben una licencia limitada para acceder al servicio.
+
+Esta licencia permite el uso del sistema según las condiciones establecidas en los términos de servicio.
+
+La licencia no es transferible ni exclusiva.
+
+El uso indebido del sistema puede resultar en la revocación de la licencia.
+
+La empresa conserva todos los derechos sobre el software y su desarrollo.
+
+TEMA: responsabilidad del usuario
+DESCRIPCION:
+Los usuarios son responsables de la información que cargan o gestionan dentro de la plataforma.
+
+Esto incluye garantizar que poseen los derechos legales necesarios para utilizar dichos datos.
+
+Los usuarios también deben cumplir con las leyes aplicables al utilizar el servicio.
+
+La empresa no se responsabiliza por el contenido generado por los usuarios.
+
+El incumplimiento de estas responsabilidades puede resultar en la suspensión de la cuenta.
+
+TEMA: limitacion de responsabilidad
+DESCRIPCION:
+La empresa proporciona el servicio con el objetivo de garantizar disponibilidad y seguridad.
+
+Sin embargo, no puede garantizar que el servicio esté libre de interrupciones en todo momento.
+
+La empresa no será responsable por pérdidas indirectas o daños derivados del uso del servicio.
+
+Las responsabilidades se limitan en la medida permitida por la legislación aplicable.
+
+Esta política forma parte de los términos generales del servicio.
+
+TEMA: acuerdos de confidencialidad
+DESCRIPCION:
+En ciertas situaciones la empresa puede firmar acuerdos de confidencialidad con clientes o socios.
+
+Estos acuerdos regulan el intercambio de información sensible entre las partes.
+
+Los empleados que tengan acceso a dicha información deben respetar las condiciones establecidas.
+
+La confidencialidad continúa vigente incluso después de finalizada la relación comercial.
+
+El incumplimiento puede resultar en consecuencias legales.
+
+TEMA: transferencia internacional de datos
+DESCRIPCION:
+En algunos casos los datos pueden transferirse o almacenarse en servidores ubicados en otros países.
+
+La empresa adopta medidas para asegurar que estas transferencias cumplan con las regulaciones aplicables.
+
+Los usuarios son informados sobre la posibilidad de transferencias internacionales de datos.
+
+Las transferencias se realizan únicamente cuando existen garantías adecuadas de protección.
+
+La empresa revisa periódicamente estas prácticas para mantener el cumplimiento legal.
+
+TEMA: derechos de acceso a datos
+DESCRIPCION:
+Los usuarios tienen derecho a solicitar acceso a los datos personales que la empresa mantiene sobre ellos.
+
+La solicitud puede realizarse mediante los canales de soporte designados.
+
+La empresa responderá dentro del plazo establecido por la legislación aplicable.
+
+El acceso puede incluir una copia de los datos almacenados.
+
+Este derecho permite a los usuarios comprender cómo se utilizan sus datos.
+
+TEMA: derecho de rectificacion
+DESCRIPCION:
+Los usuarios pueden solicitar la corrección de datos personales inexactos o incompletos.
+
+La empresa proporcionará mecanismos para actualizar la información cuando sea necesario.
+
+La precisión de los datos es importante para garantizar un servicio adecuado.
+
+Las solicitudes de rectificación se procesan de acuerdo con los procedimientos internos.
+
+La empresa puede solicitar verificación de identidad antes de realizar cambios.
+
+TEMA: derecho de eliminacion de datos
+DESCRIPCION:
+En determinadas circunstancias los usuarios pueden solicitar la eliminación de sus datos personales.
+
+Este derecho se aplica cuando los datos ya no son necesarios para los fines originales de procesamiento.
+
+La empresa evaluará cada solicitud considerando las obligaciones legales existentes.
+
+Algunos datos pueden conservarse temporalmente por razones regulatorias.
+
+Una vez cumplidos estos requisitos los datos pueden eliminarse de forma definitiva.
+
+TEMA: derecho a la portabilidad de datos
+DESCRIPCION:
+Los usuarios pueden solicitar que sus datos personales se proporcionen en un formato estructurado y portátil.
+
+Esto permite transferir la información a otros proveedores de servicios si así lo desean.
+
+La empresa facilitará esta exportación cuando sea técnicamente posible.
+
+El objetivo es ofrecer mayor control a los usuarios sobre su información.
+
+La portabilidad de datos es un derecho reconocido en varias regulaciones internacionales.
+
+TEMA: uso de cookies
+DESCRIPCION:
+La plataforma puede utilizar cookies para mejorar la experiencia del usuario.
+
+Las cookies permiten recordar preferencias y analizar el uso del sitio.
+
+Los usuarios pueden configurar su navegador para aceptar o rechazar cookies.
+
+Algunas funciones del sistema pueden no funcionar correctamente si las cookies están deshabilitadas.
+
+La empresa informa sobre el uso de cookies en su política correspondiente.
+
+TEMA: investigacion de incidentes legales
+DESCRIPCION:
+Cuando se detectan posibles violaciones legales relacionadas con el uso del servicio, la empresa puede iniciar una investigación interna.
+
+Estas investigaciones buscan determinar los hechos y evaluar posibles acciones correctivas.
+
+La empresa puede cooperar con autoridades legales cuando sea necesario.
+
+Los usuarios pueden ser contactados para proporcionar información adicional.
+
+El objetivo es asegurar el cumplimiento de la ley.
+
+TEMA: cumplimiento de ordenes judiciales
+DESCRIPCION:
+La empresa puede estar obligada a revelar cierta información cuando lo requiera una orden judicial válida.
+
+Estas solicitudes se revisan cuidadosamente para garantizar su legitimidad.
+
+Solo se comparte la información estrictamente necesaria para cumplir con la orden.
+
+Cuando sea posible, la empresa puede informar al usuario afectado.
+
+Este proceso se realiza respetando las leyes aplicables.
+
+TEMA: auditorias legales
+DESCRIPCION:
+La empresa puede realizar auditorías periódicas para asegurar el cumplimiento de requisitos legales.
+
+Estas auditorías pueden revisar políticas internas, procesos y controles de seguridad.
+
+Los resultados ayudan a identificar áreas de mejora.
+
+Las auditorías pueden ser internas o realizadas por terceros especializados.
+
+El objetivo es mantener altos estándares de cumplimiento normativo.
+
+TEMA: cumplimiento contractual
+DESCRIPCION:
+Las relaciones comerciales entre la empresa y sus clientes se rigen por acuerdos contractuales.
+
+Estos acuerdos establecen derechos, responsabilidades y condiciones de uso del servicio.
+
+Ambas partes deben cumplir las obligaciones definidas en el contrato.
+
+El incumplimiento puede resultar en sanciones o terminación del acuerdo.
+
+La empresa mantiene registros de los contratos vigentes.
+
+TEMA: resolucion de disputas
+DESCRIPCION:
+En caso de disputas relacionadas con el uso del servicio, las partes intentarán resolverlas mediante negociación.
+
+Si no se alcanza un acuerdo, pueden aplicarse mecanismos formales de resolución de conflictos.
+
+Estos mecanismos pueden incluir mediación o arbitraje.
+
+Las disputas se resolverán conforme a la legislación aplicable.
+
+El objetivo es encontrar soluciones justas para ambas partes.
+
+TEMA: jurisdiccion legal
+DESCRIPCION:
+Las condiciones del servicio se rigen por las leyes de la jurisdicción especificada en el contrato.
+
+Esto determina qué tribunales tienen autoridad en caso de disputas legales.
+
+Los usuarios aceptan esta jurisdicción al utilizar el servicio.
+
+La empresa puede modificar la jurisdicción aplicable según su ubicación o regulaciones.
+
+Cualquier cambio será comunicado a los usuarios.
+
+TEMA: cambios en politicas legales
+DESCRIPCION:
+La empresa puede actualizar sus políticas legales para reflejar cambios regulatorios o mejoras en el servicio.
+
+Las actualizaciones se publicarán en el sitio web o dentro de la plataforma.
+
+Los usuarios serán notificados cuando los cambios sean significativos.
+
+El uso continuado del servicio implica aceptación de las políticas actualizadas.
+
+Se recomienda revisar periódicamente las políticas legales.
+
+TEMA: cumplimiento de privacidad infantil
+DESCRIPCION:
+La plataforma no está destinada a recopilar información de menores de edad sin consentimiento parental.
+
+Si se detecta información de menores recopilada sin autorización, se tomarán medidas para eliminarla.
+
+Los padres o tutores pueden contactar a la empresa para solicitar la eliminación de datos.
+
+La empresa cumple con las regulaciones aplicables sobre privacidad infantil.
+
+La protección de menores es una prioridad en las políticas de privacidad.
+
+TEMA: responsabilidad sobre contenido
+DESCRIPCION:
+Los usuarios son responsables del contenido que cargan o comparten mediante la plataforma.
+
+La empresa no revisa previamente todo el contenido generado por los usuarios.
+
+Sin embargo, puede eliminar contenido que viole las políticas de uso.
+
+Los usuarios deben respetar derechos de autor y leyes aplicables.
+
+La empresa puede suspender cuentas que incumplan estas normas.
+
+TEMA: proteccion de secretos comerciales
+DESCRIPCION:
+La empresa protege sus secretos comerciales y la información estratégica relacionada con su tecnología.
+
+Esta información incluye algoritmos, diseños de sistemas y procesos internos.
+
+Los empleados y socios deben respetar acuerdos de confidencialidad relacionados con estos secretos.
+
+La divulgación no autorizada puede causar daños significativos a la organización.
+
+La empresa puede tomar acciones legales para proteger su propiedad intelectual.

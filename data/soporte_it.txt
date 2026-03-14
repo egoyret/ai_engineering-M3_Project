@@ -1,0 +1,347 @@
+TEMA: restablecimiento de contraseña
+DESCRIPCION:
+Los usuarios que olviden su contraseña pueden utilizar la función de recuperación disponible en la página de inicio de sesión de la plataforma.
+
+El proceso solicita que el usuario ingrese su dirección de correo electrónico registrada. Una vez verificada, el sistema enviará un enlace temporal que permitirá crear una nueva contraseña.
+
+El enlace de recuperación tiene una validez limitada por motivos de seguridad. Si el enlace expira antes de completar el proceso, el usuario deberá solicitar uno nuevo.
+
+Si el usuario no tiene acceso a su correo electrónico o encuentra dificultades técnicas, puede contactar al equipo de soporte mediante el sistema de tickets.
+
+El equipo de soporte puede solicitar información adicional para confirmar la identidad del usuario antes de realizar un restablecimiento manual.
+
+TEMA: autenticacion multifactor
+DESCRIPCION:
+La autenticación multifactor agrega una capa adicional de seguridad al proceso de inicio de sesión.
+
+Además de la contraseña, los usuarios deben proporcionar un segundo factor de verificación como un código temporal generado por una aplicación de autenticación.
+
+Esta medida ayuda a prevenir accesos no autorizados incluso si una contraseña ha sido comprometida.
+
+Se recomienda especialmente activar esta función para cuentas administrativas o con acceso a información sensible.
+
+Los usuarios pueden configurar la autenticación multifactor desde el panel de seguridad de su cuenta.
+
+TEMA: reporte de errores en la plataforma
+DESCRIPCION:
+Los usuarios que detecten errores o comportamientos inesperados en la plataforma deben reportarlos mediante el sistema oficial de soporte técnico.
+
+Un reporte efectivo debe incluir una descripción clara del problema y los pasos necesarios para reproducirlo.
+
+También es recomendable incluir capturas de pantalla, mensajes de error o registros del sistema.
+
+El equipo de soporte clasificará el incidente según su nivel de prioridad y gravedad.
+
+Los errores críticos que afectan a múltiples usuarios se escalan inmediatamente al equipo de ingeniería.
+
+TEMA: creacion de tickets de soporte
+DESCRIPCION:
+El sistema de tickets permite a los usuarios registrar solicitudes de soporte técnico.
+
+Cada ticket debe incluir una descripción detallada del problema o consulta.
+
+Los usuarios pueden adjuntar archivos o capturas de pantalla para facilitar el diagnóstico.
+
+Una vez creado el ticket, el sistema asigna un número de referencia para su seguimiento.
+
+El equipo de soporte responderá dentro del tiempo estimado según el nivel de prioridad.
+
+TEMA: niveles de prioridad de incidentes
+DESCRIPCION:
+Los incidentes técnicos se clasifican en distintos niveles de prioridad según su impacto en el servicio.
+
+Los incidentes críticos afectan a múltiples usuarios o impiden el funcionamiento del sistema.
+
+Los incidentes de prioridad media afectan funciones específicas pero no bloquean el uso completo de la plataforma.
+
+Los incidentes de baja prioridad suelen estar relacionados con mejoras o problemas menores.
+
+Esta clasificación permite al equipo técnico organizar el trabajo y resolver primero los problemas más urgentes.
+
+TEMA: mantenimiento programado
+DESCRIPCION:
+La plataforma puede requerir mantenimiento periódico para aplicar actualizaciones o mejoras.
+
+Durante estos períodos algunos servicios pueden estar temporalmente no disponibles.
+
+Los mantenimientos programados se anuncian con anticipación mediante correo electrónico o notificaciones en la plataforma.
+
+El objetivo es minimizar el impacto en los usuarios y mejorar la estabilidad del sistema.
+
+Una vez finalizado el mantenimiento, los servicios se restauran automáticamente.
+
+TEMA: actualizaciones del sistema
+DESCRIPCION:
+La empresa realiza actualizaciones periódicas para mejorar la funcionalidad y seguridad de la plataforma.
+
+Estas actualizaciones pueden incluir nuevas características, correcciones de errores o mejoras de rendimiento.
+
+Las actualizaciones suelen aplicarse durante ventanas de mantenimiento programadas.
+
+En la mayoría de los casos los usuarios no necesitan realizar ninguna acción adicional.
+
+Las notas de actualización se publican para informar sobre los cambios realizados.
+
+TEMA: acceso a la cuenta
+DESCRIPCION:
+Los usuarios deben proteger las credenciales de acceso a sus cuentas.
+
+No se recomienda compartir contraseñas con otras personas.
+
+En caso de actividad sospechosa, los usuarios deben cambiar su contraseña inmediatamente.
+
+El sistema puede bloquear temporalmente una cuenta después de múltiples intentos fallidos de inicio de sesión.
+
+Estas medidas ayudan a proteger la seguridad de la información.
+
+TEMA: gestion de permisos
+DESCRIPCION:
+Los permisos determinan qué acciones puede realizar un usuario dentro de la plataforma.
+
+Los administradores pueden asignar distintos niveles de acceso según el rol del usuario.
+
+Esto permite controlar quién puede visualizar, editar o eliminar información.
+
+La correcta gestión de permisos es fundamental para mantener la seguridad del sistema.
+
+Se recomienda revisar periódicamente los permisos asignados.
+
+TEMA: eliminacion de cuentas
+DESCRIPCION:
+Los usuarios pueden solicitar la eliminación de sus cuentas si desean dejar de utilizar la plataforma.
+
+Antes de eliminar una cuenta se recomienda exportar cualquier información importante.
+
+Una vez eliminada la cuenta, algunos datos pueden conservarse temporalmente para cumplir requisitos legales o regulatorios.
+
+El proceso de eliminación puede requerir confirmación adicional por motivos de seguridad.
+
+El soporte técnico puede asistir en caso de dudas durante el proceso.
+
+TEMA: copias de seguridad
+DESCRIPCION:
+La plataforma realiza copias de seguridad periódicas para proteger la información almacenada.
+
+Estas copias permiten restaurar datos en caso de fallas técnicas o incidentes inesperados.
+
+Las copias de seguridad se almacenan en sistemas seguros y redundantes.
+
+El acceso a estas copias está restringido al personal autorizado.
+
+Este proceso forma parte de la estrategia de continuidad del servicio.
+
+TEMA: recuperacion de datos
+DESCRIPCION:
+En caso de pérdida de datos, el equipo técnico puede intentar restaurar la información desde las copias de seguridad.
+
+El éxito de la recuperación depende del momento en que ocurrió la pérdida y de la disponibilidad de las copias correspondientes.
+
+Los usuarios deben informar el incidente lo antes posible para aumentar las posibilidades de recuperación.
+
+El proceso puede requerir tiempo dependiendo del volumen de datos.
+
+El equipo de soporte informará al usuario sobre el progreso de la recuperación.
+
+TEMA: integraciones externas
+DESCRIPCION:
+La plataforma puede integrarse con servicios externos para ampliar su funcionalidad.
+
+Estas integraciones permiten conectar herramientas como sistemas de almacenamiento o aplicaciones de comunicación.
+
+Antes de habilitar una integración se recomienda revisar las políticas de privacidad del proveedor externo.
+
+Los administradores pueden habilitar o deshabilitar integraciones desde el panel de configuración.
+
+La empresa no se responsabiliza por fallas causadas por servicios externos.
+
+TEMA: uso de la api
+DESCRIPCION:
+La plataforma ofrece una API que permite a los desarrolladores integrar el sistema con otras aplicaciones.
+
+El acceso a la API requiere credenciales de autenticación.
+
+Los desarrolladores deben seguir las buenas prácticas de seguridad al utilizar la API.
+
+El uso excesivo de la API puede estar sujeto a límites de velocidad para proteger la estabilidad del sistema.
+
+La documentación técnica describe todos los endpoints disponibles.
+
+TEMA: limites de uso
+DESCRIPCION:
+Para garantizar un servicio estable, la plataforma puede establecer límites de uso.
+
+Estos límites pueden aplicarse a solicitudes de API, almacenamiento o número de operaciones.
+
+Cuando se alcanza un límite, el sistema puede restringir temporalmente ciertas funciones.
+
+Los usuarios pueden revisar sus niveles de uso desde el panel de administración.
+
+Los planes de servicio superiores pueden ofrecer límites más altos.
+
+TEMA: monitoreo del sistema
+DESCRIPCION:
+El equipo técnico monitorea continuamente el estado de los sistemas y servicios.
+
+El monitoreo permite detectar problemas antes de que afecten a los usuarios.
+
+Se utilizan herramientas automáticas para analizar el rendimiento y la disponibilidad.
+
+Cuando se detecta una anomalía se inicia un proceso de investigación.
+
+Este monitoreo ayuda a mantener la confiabilidad del servicio.
+
+TEMA: tiempos de respuesta del soporte
+DESCRIPCION:
+El equipo de soporte técnico responde a las solicitudes según niveles de prioridad.
+
+Los incidentes críticos reciben atención inmediata.
+
+Las solicitudes de prioridad media suelen responderse dentro de un plazo estándar.
+
+Las consultas generales pueden tardar más tiempo dependiendo del volumen de solicitudes.
+
+Los tiempos estimados se comunican al usuario al crear el ticket.
+
+TEMA: notificaciones del sistema
+DESCRIPCION:
+La plataforma envía notificaciones para informar a los usuarios sobre eventos importantes.
+
+Estas notificaciones pueden incluir alertas de seguridad, actualizaciones del sistema o cambios en la cuenta.
+
+Los usuarios pueden configurar sus preferencias de notificación.
+
+Algunas notificaciones críticas no pueden desactivarse.
+
+El objetivo es mantener informados a los usuarios sobre el estado del servicio.
+
+TEMA: configuracion de la cuenta
+DESCRIPCION:
+Los usuarios pueden personalizar diversas opciones desde el panel de configuración de su cuenta.
+
+Esto incluye preferencias de idioma, zona horaria y notificaciones.
+
+Los cambios realizados se aplican inmediatamente en la mayoría de los casos.
+
+Los usuarios deben revisar periódicamente su configuración para asegurar que refleje sus preferencias actuales.
+
+La configuración correcta mejora la experiencia de uso de la plataforma.
+
+TEMA: seguridad de la informacion
+DESCRIPCION:
+La protección de la información es una prioridad para la empresa.
+
+Se utilizan múltiples capas de seguridad para proteger los datos almacenados en la plataforma.
+
+Estas medidas incluyen cifrado, controles de acceso y monitoreo de actividad.
+
+Los empleados y usuarios deben seguir las mejores prácticas de seguridad.
+
+La seguridad es una responsabilidad compartida entre la empresa y los usuarios.
+
+TEMA: actividad sospechosa
+DESCRIPCION:
+Si se detecta actividad sospechosa en una cuenta, el sistema puede tomar medidas preventivas.
+
+Estas medidas pueden incluir el bloqueo temporal de la cuenta o la solicitud de verificación adicional.
+
+Los usuarios recibirán una notificación informando sobre la actividad detectada.
+
+Es importante revisar regularmente el historial de actividad de la cuenta.
+
+Reportar actividad sospechosa ayuda a proteger la seguridad del sistema.
+
+TEMA: registro de actividad
+DESCRIPCION:
+La plataforma mantiene registros de actividad para auditar el uso del sistema.
+
+Estos registros incluyen inicios de sesión, cambios de configuración y acciones administrativas.
+
+El acceso a los registros está restringido a usuarios autorizados.
+
+Los registros ayudan a investigar incidentes de seguridad.
+
+También permiten analizar el uso general del sistema.
+
+TEMA: acceso administrativo
+DESCRIPCION:
+Las cuentas administrativas tienen permisos ampliados dentro de la plataforma.
+
+Por este motivo deben seguir medidas de seguridad más estrictas.
+
+Se recomienda utilizar autenticación multifactor y contraseñas seguras.
+
+El acceso administrativo debe limitarse solo a las personas que realmente lo necesitan.
+
+El uso indebido de estos permisos puede tener consecuencias graves.
+
+TEMA: proteccion contra malware
+DESCRIPCION:
+La empresa implementa sistemas de protección para prevenir la introducción de software malicioso.
+
+Los archivos cargados en la plataforma pueden ser analizados automáticamente.
+
+Los usuarios deben evitar descargar archivos de fuentes no confiables.
+
+El uso de antivirus actualizado también es recomendable.
+
+Estas medidas ayudan a proteger tanto a los usuarios como a la infraestructura del sistema.
+
+TEMA: compatibilidad de navegadores
+DESCRIPCION:
+La plataforma está diseñada para funcionar con navegadores web modernos.
+
+Se recomienda utilizar las versiones más recientes de navegadores populares.
+
+El uso de navegadores desactualizados puede causar problemas de compatibilidad.
+
+Algunos problemas técnicos pueden resolverse actualizando el navegador o limpiando la memoria caché.
+
+El equipo de soporte puede orientar a los usuarios en estos casos.
+
+TEMA: almacenamiento de archivos
+DESCRIPCION:
+Los usuarios pueden almacenar archivos dentro de la plataforma según los límites de su plan.
+
+El sistema organiza los archivos para facilitar su acceso y gestión.
+
+Los archivos pueden compartirse con otros usuarios según los permisos establecidos.
+
+Es importante evitar almacenar información innecesaria para optimizar el espacio disponible.
+
+Los administradores pueden revisar el uso de almacenamiento.
+
+TEMA: exportacion de datos
+DESCRIPCION:
+Los usuarios pueden exportar datos desde la plataforma para utilizarlos en otros sistemas.
+
+La exportación puede realizarse en diferentes formatos según el tipo de información.
+
+Este proceso permite mantener copias externas de los datos.
+
+Los administradores pueden restringir la exportación en algunos casos por motivos de seguridad.
+
+El proceso de exportación puede tardar dependiendo del volumen de datos.
+
+TEMA: rendimiento del sistema
+DESCRIPCION:
+El rendimiento de la plataforma depende de múltiples factores técnicos.
+
+El equipo de ingeniería trabaja continuamente para optimizar la velocidad y estabilidad del sistema.
+
+Los usuarios pueden experimentar variaciones de rendimiento dependiendo de su conexión a internet.
+
+Reportar problemas de rendimiento ayuda a mejorar la plataforma.
+
+La empresa monitorea constantemente métricas de desempeño.
+
+TEMA: soporte tecnico
+DESCRIPCION:
+El equipo de soporte técnico está disponible para ayudar a los usuarios con problemas o consultas.
+
+Los usuarios pueden contactar soporte mediante el sistema de tickets o canales designados.
+
+El soporte puede proporcionar asistencia para configuración, errores o dudas sobre el uso de la plataforma.
+
+La calidad del soporte depende de la información proporcionada en la solicitud.
+
+El objetivo es resolver los problemas de manera rápida y eficiente.

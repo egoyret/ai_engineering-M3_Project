@@ -1,0 +1,347 @@
+TEMA: ciclo de facturacion
+DESCRIPCION:
+La plataforma ofrece diferentes modalidades de facturación para adaptarse a las necesidades de los clientes.
+
+Los clientes pueden elegir entre facturación mensual o anual al contratar el servicio.
+
+El ciclo de facturación comienza en la fecha de activación de la cuenta y se renueva automáticamente al final de cada período.
+
+Las facturas generadas se encuentran disponibles en el panel de administración del cliente.
+
+Los clientes pueden revisar el historial de facturación para consultar cargos anteriores y descargar comprobantes.
+
+TEMA: pagos fallidos
+DESCRIPCION:
+Cuando un pago no puede procesarse correctamente, el sistema inicia automáticamente un proceso de reintento.
+
+El sistema realiza varios intentos durante los días siguientes utilizando el método de pago registrado.
+
+Durante este período el cliente recibe notificaciones por correo electrónico informando sobre el problema.
+
+Si el pago continúa fallando después de varios intentos, la cuenta puede ser suspendida temporalmente.
+
+La cuenta se reactiva automáticamente cuando el pago pendiente se procesa correctamente.
+
+TEMA: metodos de pago aceptados
+DESCRIPCION:
+La plataforma acepta diversos métodos de pago para facilitar la suscripción al servicio.
+
+Entre los métodos disponibles se incluyen tarjetas de crédito, transferencias bancarias y otros medios electrónicos.
+
+Los métodos disponibles pueden variar según la región del cliente.
+
+Los clientes pueden actualizar o modificar su método de pago desde el panel de facturación.
+
+Es responsabilidad del cliente mantener actualizada la información de pago para evitar interrupciones del servicio.
+
+TEMA: facturacion mensual
+DESCRIPCION:
+Los clientes que eligen el plan mensual reciben una factura al inicio de cada período de facturación.
+
+El cargo se procesa automáticamente utilizando el método de pago registrado.
+
+Este modelo ofrece mayor flexibilidad ya que permite cancelar el servicio al finalizar cualquier mes.
+
+Las facturas incluyen el detalle del plan contratado y cualquier cargo adicional.
+
+Los clientes pueden consultar y descargar sus facturas desde el sistema.
+
+TEMA: facturacion anual
+DESCRIPCION:
+La facturación anual permite pagar por adelantado doce meses completos de servicio.
+
+Este modelo suele incluir descuentos en comparación con la facturación mensual.
+
+El pago se realiza al inicio del período anual.
+
+Durante el período contratado el servicio permanece activo sin necesidad de pagos adicionales.
+
+Al finalizar el período anual el servicio se renueva automáticamente salvo que el cliente solicite la cancelación.
+
+TEMA: prorrateo de planes
+DESCRIPCION:
+Cuando un cliente cambia de plan durante un ciclo de facturación, el sistema calcula automáticamente el prorrateo correspondiente.
+
+Esto significa que se ajustan los cargos en función del tiempo restante del período actual.
+
+El cliente solo paga la diferencia entre el plan anterior y el nuevo plan seleccionado.
+
+El prorrateo garantiza que el cliente pague únicamente por el tiempo real de uso.
+
+Los detalles del cálculo aparecen reflejados en la factura.
+
+TEMA: cancelacion de suscripcion
+DESCRIPCION:
+Los clientes pueden cancelar su suscripción en cualquier momento desde el panel de administración.
+
+La cancelación evita la renovación automática del servicio al final del período actual.
+
+El acceso a la plataforma permanece activo hasta la finalización del ciclo de facturación ya pagado.
+
+Se recomienda exportar los datos antes de la cancelación definitiva.
+
+Una vez finalizado el período contratado la cuenta puede desactivarse automáticamente.
+
+TEMA: reembolsos
+DESCRIPCION:
+Las solicitudes de reembolso se evalúan de acuerdo con las políticas financieras de la empresa.
+
+En general los pagos ya procesados no son reembolsables salvo en circunstancias excepcionales.
+
+Los clientes pueden contactar al equipo de soporte para revisar su situación específica.
+
+Cada solicitud se analiza considerando el tiempo de uso del servicio y las condiciones del contrato.
+
+Las decisiones finales se comunican al cliente una vez completada la revisión.
+
+TEMA: impuestos aplicables
+DESCRIPCION:
+Las facturas pueden incluir impuestos según la legislación fiscal aplicable en la jurisdicción del cliente.
+
+El sistema calcula automáticamente los impuestos cuando corresponde.
+
+Los clientes son responsables de proporcionar información fiscal correcta.
+
+Los detalles de impuestos se muestran claramente en cada factura.
+
+Las regulaciones fiscales pueden variar entre diferentes países o regiones.
+
+TEMA: informacion de facturacion
+DESCRIPCION:
+Los clientes deben proporcionar información de facturación precisa y actualizada.
+
+Esto incluye nombre legal, dirección fiscal y número de identificación tributaria cuando corresponda.
+
+La información correcta garantiza la emisión adecuada de facturas.
+
+Los clientes pueden actualizar estos datos desde el panel de configuración.
+
+Cambios en la información pueden aplicarse a futuras facturas.
+
+TEMA: historial de facturas
+DESCRIPCION:
+La plataforma mantiene un historial completo de todas las facturas emitidas para cada cuenta.
+
+Los clientes pueden acceder a este historial en cualquier momento.
+
+Las facturas pueden descargarse en formato digital para fines contables o administrativos.
+
+El historial incluye detalles sobre fechas de emisión, montos y estado de pago.
+
+Mantener registros claros facilita la gestión financiera.
+
+TEMA: notificaciones de pago
+DESCRIPCION:
+El sistema envía notificaciones automáticas relacionadas con la facturación y los pagos.
+
+Estas notificaciones informan sobre cargos realizados, pagos fallidos o renovaciones próximas.
+
+Los mensajes se envían generalmente por correo electrónico.
+
+El objetivo es mantener informados a los clientes sobre el estado de su cuenta.
+
+Algunas notificaciones pueden configurarse según las preferencias del usuario.
+
+TEMA: suspension por falta de pago
+DESCRIPCION:
+Si los pagos pendientes no se resuelven dentro de un plazo determinado, la cuenta puede ser suspendida.
+
+Durante la suspensión algunas funciones del servicio pueden no estar disponibles.
+
+El cliente recibirá varias notificaciones antes de que se produzca la suspensión.
+
+La cuenta puede reactivarse una vez que el pago pendiente se haya completado.
+
+Esta medida busca garantizar la continuidad del servicio para todos los usuarios.
+
+TEMA: reactivacion de cuenta
+DESCRIPCION:
+Una cuenta suspendida puede reactivarse una vez que se resuelven los pagos pendientes.
+
+El sistema procesa automáticamente la reactivación después de confirmar el pago.
+
+En algunos casos el cliente puede necesitar contactar al soporte para completar el proceso.
+
+La reactivación restablece el acceso normal a la plataforma.
+
+El historial de facturación permanece disponible después de la reactivación.
+
+TEMA: cambios de plan
+DESCRIPCION:
+Los clientes pueden cambiar su plan de servicio según sus necesidades.
+
+Los cambios pueden implicar modificaciones en el precio y en las funcionalidades disponibles.
+
+Dependiendo del momento del cambio, el sistema puede aplicar prorrateos.
+
+Los clientes pueden consultar las características de cada plan antes de realizar el cambio.
+
+El nuevo plan se activa inmediatamente o al inicio del siguiente ciclo de facturación.
+
+TEMA: descuentos promocionales
+DESCRIPCION:
+La empresa puede ofrecer descuentos promocionales durante campañas específicas.
+
+Estos descuentos pueden aplicarse a nuevos clientes o a clientes existentes.
+
+Las condiciones de cada promoción se comunican claramente al momento de la oferta.
+
+Al finalizar el período promocional el precio vuelve al valor estándar del plan.
+
+Los descuentos no siempre son acumulables con otras promociones.
+
+TEMA: facturacion por uso
+DESCRIPCION:
+Algunos servicios pueden incluir componentes de facturación basados en el uso.
+
+Esto significa que el costo depende del volumen de recursos utilizados por el cliente.
+
+Los ejemplos pueden incluir almacenamiento adicional o solicitudes de API.
+
+Los cargos por uso se reflejan en la factura del período correspondiente.
+
+El sistema permite monitorear el consumo para evitar cargos inesperados.
+
+TEMA: limites de gasto
+DESCRIPCION:
+Los clientes pueden establecer límites de gasto para controlar costos variables.
+
+Estos límites ayudan a prevenir cargos excesivos en servicios basados en uso.
+
+Cuando se alcanza el límite configurado algunas funciones pueden restringirse.
+
+Los clientes reciben notificaciones antes de alcanzar el límite.
+
+Esta herramienta facilita la planificación financiera.
+
+TEMA: informes financieros
+DESCRIPCION:
+La plataforma puede generar informes financieros relacionados con el uso del servicio.
+
+Estos informes incluyen detalles sobre pagos realizados y costos acumulados.
+
+Los clientes pueden utilizar estos informes para análisis contables o presupuestarios.
+
+Los informes pueden descargarse en distintos formatos.
+
+La disponibilidad de informes puede depender del plan contratado.
+
+TEMA: conciliacion de pagos
+DESCRIPCION:
+La conciliación de pagos permite verificar que los pagos recibidos coincidan con las facturas emitidas.
+
+Este proceso ayuda a mantener registros financieros precisos.
+
+Los clientes pueden revisar los detalles de cada pago en el panel de facturación.
+
+En caso de discrepancias se recomienda contactar al equipo de soporte.
+
+La conciliación regular facilita la gestión contable.
+
+TEMA: seguridad de pagos
+DESCRIPCION:
+La empresa utiliza sistemas seguros para procesar transacciones financieras.
+
+Los datos de pago se manejan mediante proveedores especializados en procesamiento de pagos.
+
+La plataforma no almacena información sensible de tarjetas cuando no es necesario.
+
+Estas medidas ayudan a reducir riesgos de fraude o acceso no autorizado.
+
+La seguridad financiera es una prioridad en el sistema.
+
+TEMA: facturas electronicas
+DESCRIPCION:
+Las facturas generadas por la plataforma se emiten en formato electrónico.
+
+Este formato permite una gestión más eficiente y ecológica de la documentación.
+
+Los clientes pueden descargar las facturas para sus registros contables.
+
+En algunos países las facturas electrónicas deben cumplir requisitos regulatorios específicos.
+
+La empresa adapta el formato según las regulaciones aplicables.
+
+TEMA: ajustes de facturacion
+DESCRIPCION:
+En determinadas situaciones puede ser necesario realizar ajustes en una factura emitida.
+
+Estos ajustes pueden deberse a errores administrativos o cambios contractuales.
+
+Cuando ocurre un ajuste se genera documentación que explica la modificación.
+
+Los clientes pueden consultar el detalle en su historial de facturación.
+
+El objetivo es mantener registros financieros claros y transparentes.
+
+TEMA: cargos adicionales
+DESCRIPCION:
+Algunos servicios o funciones avanzadas pueden generar cargos adicionales.
+
+Estos cargos se detallan claramente antes de que el cliente confirme su uso.
+
+Los cargos adicionales se incluyen en la factura del período correspondiente.
+
+Los clientes pueden revisar los precios de estas funciones en la documentación del servicio.
+
+La transparencia en los precios es un principio fundamental de la empresa.
+
+TEMA: soporte de facturacion
+DESCRIPCION:
+El equipo de soporte de facturación ayuda a los clientes con consultas relacionadas con pagos o facturas.
+
+Los clientes pueden contactar soporte mediante los canales disponibles.
+
+El equipo puede aclarar cargos, revisar pagos o ayudar con actualizaciones de información.
+
+La rapidez de respuesta depende del volumen de solicitudes.
+
+El objetivo es resolver cualquier duda financiera de manera eficiente.
+
+TEMA: cierre de cuenta
+DESCRIPCION:
+Cuando un cliente decide cerrar su cuenta, el sistema verifica si existen pagos pendientes.
+
+Antes del cierre definitivo se recomienda descargar facturas y exportar datos relevantes.
+
+Una vez completado el cierre, el acceso al sistema se desactiva.
+
+Algunos registros financieros pueden conservarse por requisitos legales.
+
+El cierre de cuenta no elimina automáticamente obligaciones financieras previas.
+
+TEMA: moneda de facturacion
+DESCRIPCION:
+Las facturas pueden emitirse en diferentes monedas dependiendo de la región del cliente.
+
+El sistema muestra claramente la moneda utilizada en cada transacción.
+
+Las conversiones de moneda pueden depender del proveedor de pagos.
+
+Los clientes deben verificar la moneda antes de completar una transacción.
+
+La empresa busca ofrecer opciones de pago adecuadas para distintos mercados.
+
+TEMA: actualizacion de precios
+DESCRIPCION:
+La empresa puede actualizar los precios de sus planes o servicios.
+
+Los clientes serán informados con anticipación sobre cualquier cambio significativo.
+
+Los nuevos precios generalmente se aplican en el siguiente ciclo de facturación.
+
+Los clientes pueden revisar las opciones disponibles antes de la renovación.
+
+La transparencia en los cambios de precio es parte de la política financiera.
+
+TEMA: politicas de credito
+DESCRIPCION:
+En algunos casos la empresa puede ofrecer condiciones de crédito a clientes empresariales.
+
+Estas condiciones se establecen mediante acuerdos específicos.
+
+El crédito permite pagar facturas dentro de un plazo determinado.
+
+El incumplimiento de los plazos puede generar cargos adicionales.
+
+Las políticas de crédito se aplican solo a clientes aprobados previamente.

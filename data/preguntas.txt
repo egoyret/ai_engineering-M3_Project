@@ -1,0 +1,219 @@
+¿Puedo trabajar algunos días desde mi casa o la empresa exige presencia en la oficina todos los días?
+
+¿Cuántos días de vacaciones me corresponden por año en la empresa?
+
+¿Cómo debo solicitar mis vacaciones dentro del sistema?
+
+¿Los días de vacaciones que no use este año se pierden o se pueden trasladar al siguiente?
+
+¿Qué debo hacer si me enfermo y no puedo ir a trabajar?
+
+¿La empresa puede pedirme un certificado médico si falto varios días por enfermedad?
+
+¿Existe algún proceso de bienvenida o capacitación cuando ingreso a la empresa?
+
+¿Cuánto dura normalmente el proceso de incorporación para nuevos empleados?
+
+¿Cada cuánto tiempo se realizan las evaluaciones de desempeño?
+
+¿Las evaluaciones de desempeño pueden influir en aumentos salariales?
+
+¿Qué tipo de comportamiento espera la empresa de los empleados según el código de conducta?
+
+¿Qué ocurre si un empleado no cumple el código de conducta?
+
+¿La empresa tiene políticas contra la discriminación?
+
+¿Dónde puedo reportar un caso de discriminación en el trabajo?
+
+¿La empresa ofrece capacitaciones o cursos para mejorar habilidades profesionales?
+
+¿La empresa paga certificaciones o cursos externos?
+
+¿Cuál es el horario laboral estándar dentro de la empresa?
+
+¿Se permite trabajar con horarios flexibles?
+
+¿Qué puedo hacer si tengo un conflicto con otro compañero de trabajo?
+
+¿Quién interviene cuando hay conflictos laborales dentro del equipo?
+
+¿La empresa ofrece beneficios adicionales además del salario?
+
+¿Existe algún tipo de seguro médico para los empleados?
+
+¿Puedo usar la computadora de la empresa para asuntos personales?
+
+¿Está permitido instalar software personal en los equipos de la empresa?
+
+¿Qué tipo de información se considera confidencial dentro de la empresa?
+
+¿Qué sucede si un empleado divulga información confidencial?
+
+¿Puedo trabajar desde otro país durante un período corto?
+
+¿Existen restricciones para hacer teletrabajo desde el extranjero?
+
+¿Es posible solicitar un cambio de puesto dentro de la empresa?
+
+¿Cómo funciona el proceso de transferencia interna?
+
+¿Debo avisar con anticipación si quiero renunciar a mi puesto?
+
+¿Existe un período de preaviso antes de dejar la empresa?
+
+¿La empresa tiene políticas disciplinarias para conductas inapropiadas?
+
+¿Qué sucede si un empleado incumple una política interna?
+
+¿La empresa realiza encuestas para evaluar el clima laboral?
+
+¿Los empleados pueden dar feedback sobre el ambiente de trabajo?
+
+¿La empresa tiene programas de bienestar o salud para los empleados?
+
+¿Está permitido trabajar horas extras?
+
+¿Cómo se compensan las horas extras?
+
+¿La empresa organiza reuniones periódicas para los equipos?
+
+¿Existe alguna política para mejorar la colaboración entre departamentos?
+
+¿Puedo dar feedback a mi supervisor sobre mi desempeño o el del equipo?
+
+¿La empresa reconoce públicamente los logros de los empleados?
+
+¿Qué debo hacer si olvidé mi contraseña para acceder a la plataforma?
+
+¿Cómo puedo restablecer mi contraseña si no recuerdo mis credenciales?
+
+¿Qué pasa si el enlace de recuperación de contraseña expira?
+
+¿Puedo contactar soporte si no puedo recuperar mi contraseña?
+
+¿Qué es la autenticación multifactor y cómo puedo activarla?
+
+¿Es obligatorio usar autenticación multifactor para iniciar sesión?
+
+¿Cómo puedo reportar un error que encontré en la plataforma?
+
+¿Qué información debo incluir cuando reporto un problema técnico?
+
+¿Dónde puedo crear un ticket de soporte técnico?
+
+¿Cómo puedo hacer seguimiento de un ticket de soporte?
+
+¿Cuánto tarda normalmente el soporte en responder?
+
+¿Cómo se clasifican los incidentes técnicos según su prioridad?
+
+¿Qué significa que un incidente sea considerado crítico?
+
+¿Por qué a veces la plataforma entra en mantenimiento?
+
+¿La empresa avisa antes de realizar mantenimiento del sistema?
+
+¿Qué tipo de actualizaciones se realizan en la plataforma?
+
+¿Necesito hacer algo cuando el sistema se actualiza?
+
+¿Qué sucede si alguien intenta acceder a mi cuenta varias veces sin éxito?
+
+¿El sistema puede bloquear una cuenta por intentos fallidos de login?
+
+¿Cómo funcionan los permisos dentro de la plataforma?
+
+¿Quién puede cambiar los permisos de los usuarios?
+
+¿Cómo puedo eliminar mi cuenta si ya no quiero usar la plataforma?
+
+¿La empresa hace copias de seguridad de los datos?
+
+¿Se pueden recuperar datos eliminados por error?
+
+¿La plataforma se puede integrar con otros sistemas externos?
+
+¿Dónde puedo encontrar documentación sobre la API?
+
+¿Existen límites en la cantidad de solicitudes que se pueden hacer a la API?
+
+¿La plataforma monitorea el estado del sistema para detectar fallas?
+
+¿Recibiré notificaciones si ocurre un problema en el sistema?
+
+¿Puedo personalizar las notificaciones que recibo?
+
+¿Dónde puedo cambiar la configuración de mi cuenta?
+
+¿Qué medidas toma la empresa para proteger la información de los usuarios?
+
+¿Qué debo hacer si detecto actividad sospechosa en mi cuenta?
+
+¿La plataforma guarda un registro de actividad de los usuarios?
+
+¿Quién puede ver los registros de actividad del sistema?
+
+¿Las cuentas administrativas tienen medidas de seguridad adicionales?
+
+¿Cómo protege la empresa el sistema contra malware?
+
+¿Qué navegadores son compatibles con la plataforma?
+
+¿Dónde puedo ver cuánto espacio de almacenamiento estoy utilizando?
+
+¿Es posible exportar mis datos desde la plataforma?
+
+¿Qué puede afectar el rendimiento de la plataforma?
+
+¿Cómo puedo contactar al soporte técnico si tengo problemas?
+
+¿Qué datos personales recopila la empresa cuando uso la plataforma?
+
+¿Cómo protege la empresa mi información personal?
+
+¿Puedo solicitar acceso a los datos personales que la empresa tiene sobre mí?
+
+¿Es posible pedir que se eliminen mis datos personales?
+
+¿Puedo corregir información personal incorrecta en mi cuenta?
+
+¿La empresa comparte mis datos con terceros?
+
+¿La empresa puede transferir mis datos a otros países?
+
+¿Qué ocurre con mis datos si cancelo mi cuenta?
+
+¿La empresa utiliza cookies en la plataforma?
+
+¿Para qué se utilizan las cookies?
+
+¿Quién es responsable del contenido que subo a la plataforma?
+
+¿La empresa puede eliminar contenido que viole las políticas?
+
+¿El software de la plataforma está protegido por derechos de autor?
+
+¿Los usuarios reciben una licencia para usar el sistema?
+
+¿En qué moneda se emiten las facturas del servicio?
+
+¿Puedo pagar el servicio mensualmente o solo de forma anual?
+
+¿Qué sucede si mi pago mensual falla?
+
+¿Cuántos intentos hace el sistema para cobrar un pago fallido?
+
+¿Puedo cambiar mi método de pago?
+
+¿Dónde puedo descargar mis facturas?
+
+¿La empresa ofrece reembolsos si cancelo el servicio?
+
+¿Puedo cambiar de plan durante el ciclo de facturación?
+
+¿Cómo funciona el prorrateo cuando cambio de plan?
+
+¿La plataforma cobra impuestos en las facturas?
+
+¿Puedo establecer un límite de gasto para evitar cargos inesperados?
