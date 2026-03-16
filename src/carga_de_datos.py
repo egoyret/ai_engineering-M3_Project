@@ -8,6 +8,7 @@ DATA_FILE_FINANZAS = PROJECT_ROOT / "data" / "finanzas.txt"
 DATA_FILE_RRHH = PROJECT_ROOT / "data" / "recursos_humanos.txt"
 DATA_FILE_IT = PROJECT_ROOT / "data" / "soporte_it.txt"
 DATA_FILE_LEGAL = PROJECT_ROOT / "data" / "legal.txt"
+DATA_FILE_EVALUADOR = PROJECT_ROOT / "data" / "evaluador.txt"
 
 CHUNK_SIZE = 350
 CHUNK_OVERLAP = 80
@@ -101,6 +102,25 @@ def carga_base_de_conocimientos(dominio):
     # logger.info(f"Base {dominio} cargada con {len(chunks)} chunks")
     return chunks
 
+def cargar_dataset_evaluador():
+    resultados = []
+    filepath = DATA_FILE_EVALUADOR
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        texto = f.read()
+
+    pattern = r"PREGUNTA:\s*(.*?)\s*DATASET_CORRECTO:\s*(.*?)\s*(?:\n|$)"
+
+    matches = re.findall(pattern, texto, re.DOTALL)
+
+    for pregunta, dataset in matches:
+        resultados.append({
+            "pregunta": pregunta.strip(),
+            "dataset_correcto": dataset.strip()
+        })
+
+    return resultados
+
 
 def main():
 
@@ -122,4 +142,7 @@ def main():
     print(f"Chunks generados: {len(chunks)}")
 
 if __name__ == "__main__":
-    main()
+    # main()
+    dataset = cargar_dataset_evaluador()
+    print(dataset[0])
+    print(len(dataset))

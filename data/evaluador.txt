@@ -144,51 +144,51 @@ RESPUESTA_ESPERADA: El software es propiedad de la empresa y se concede una lice
 PALABRAS_CLAVE: copyright, licencia
 
 PREGUNTA: ¿Dónde puedo ver mis facturas?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: Las facturas pueden consultarse desde el panel de administración de la cuenta.
 PALABRAS_CLAVE: facturas
 
 PREGUNTA: ¿Puedo pagar el servicio mensualmente?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: Los clientes pueden elegir facturación mensual o anual.
 PALABRAS_CLAVE: facturacion, mensual
 
 PREGUNTA: ¿Qué pasa si mi pago falla?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: El sistema intentará procesar nuevamente el pago y notificará al cliente.
 PALABRAS_CLAVE: pago fallido
 
 PREGUNTA: ¿Cuántos intentos de cobro hace el sistema?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: El sistema realiza varios intentos antes de suspender la cuenta.
 PALABRAS_CLAVE: intentos cobro
 
 PREGUNTA: ¿Puedo cambiar mi método de pago?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: El método de pago puede actualizarse desde la configuración de facturación.
 PALABRAS_CLAVE: metodo pago
 
 PREGUNTA: ¿Cómo funciona el cambio de plan?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: El sistema aplica prorrateo cuando se cambia de plan durante el ciclo de facturación.
 PALABRAS_CLAVE: cambio plan, prorrateo
 
 PREGUNTA: ¿La empresa ofrece reembolsos?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: Los reembolsos dependen de las políticas de facturación y cancelación.
 PALABRAS_CLAVE: reembolso
 
 PREGUNTA: ¿En qué moneda se factura el servicio?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: Las facturas se emiten en la moneda definida por la empresa o el contrato.
 PALABRAS_CLAVE: moneda, facturacion
 
 PREGUNTA: ¿La factura incluye impuestos?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: Los impuestos aplicables se agregan según la jurisdicción del cliente.
 PALABRAS_CLAVE: impuestos
 
 PREGUNTA: ¿Cómo evito cargos inesperados?
-DATASET_CORRECTO: FINANZAS
+DATASET_CORRECTO: FINANCE
 RESPUESTA_ESPERADA: Los clientes pueden revisar uso, planes y límites de facturación.
 PALABRAS_CLAVE: limite gasto
