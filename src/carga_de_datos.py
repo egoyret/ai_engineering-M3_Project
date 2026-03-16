@@ -98,7 +98,7 @@ def carga_base_de_conocimientos(dominio):
     texto = leer_archivos(file)
     politicas = parsear_politicas(texto)
     chunks = generar_chunks(politicas, dominio)
-    logger.info(f"Base {dominio} cargada con {len(chunks)} chunks")
+    # logger.info(f"Base {dominio} cargada con {len(chunks)} chunks")
     return chunks
 
 

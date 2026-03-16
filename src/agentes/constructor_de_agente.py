@@ -1,7 +1,7 @@
 from langchain_chroma import Chroma
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
-from ..vectorstore import PERSIST_DIR
+from src.vectorstore import PERSIST_DIR
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
 

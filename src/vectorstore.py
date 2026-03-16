@@ -1,16 +1,26 @@
+import os
+import shutil
+
+import chromadb
+from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
+
 from src.carga_de_datos import carga_base_de_conocimientos
 from utils import PROJECT_ROOT, logger
-from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
-import chromadb
 
 INPUT = "politicas_chunks.json"
 PERSIST_DIR = PROJECT_ROOT / "chroma_db"
 COLLECTION_NAME = "politicas"
 
 
-def initialize_chroma(dominio):
-    embedding_function = OpenAIEmbeddingFunction(model_name="text-embedding-3-small")
+def initialize_chroma(model):
+    # Eliminar directorio de base de datos antiguo para evitar problemas de datos antiguos
+    if os.path.exists(PERSIST_DIR):
+        shutil.rmtree(PERSIST_DIR)
+    embedding_function = OpenAIEmbeddingFunction(model_name=model)
     client = chromadb.PersistentClient(path=str(PERSIST_DIR))
+    return client, embedding_function
+
+def create_collection(client, embedding_function, dominio):
 
     # Creo el dataset para los embeddings que se van a generar con el modelo definido.
     try: # Primero borro el dataset si existe
@@ -22,7 +32,7 @@ def initialize_chroma(dominio):
         name=dominio,
         embedding_function=embedding_function)
 
-    logger.info(f"Collection {dominio} created")
+    # logger.info(f"Collection {dominio} created")
     return collection
 
 
