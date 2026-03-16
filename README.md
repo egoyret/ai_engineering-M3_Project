@@ -55,6 +55,12 @@ ai_engineering-M3_Project/
 
 Ejecutar el notebook main.ipynb para ver el flujo de ejecucion del chatbot.
 
+En la ultima celda se ejecuta con un grupo de preguntas de ejemplo y se evalua si eligio la ruta correcta.
+
+Tambien se agregan preguntas no aplicables para verificar el fallback.
+
+Se creo un agente NA para las preguntas no aplicables que no debe encontrar ruta.
+
 
 ## Tecnologias utilizadas:
 
